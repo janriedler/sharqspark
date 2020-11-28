@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1577cdb2-3520-44c4-a3d3-75c1525f2cf1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="Test1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -198,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606566310284</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="change ssaaaffokok">
+      <created>1606567236902</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606567236902</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -218,7 +224,8 @@
     <MESSAGE value="update .gitignore" />
     <MESSAGE value="fixed Api Gateway" />
     <MESSAGE value="hallloooo sssaaadddoook" />
-    <option name="LAST_COMMIT_MESSAGE" value="hallloooo sssaaadddoook" />
+    <MESSAGE value="change ssaaaffokok" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ssaaaffokok" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606326070777">
@@ -230,10 +237,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="190" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1606324528586" />
-    <state x="208" y="25" width="831" height="849" key="CommitChangelistDialog2" timestamp="1606566284043">
+    <state x="208" y="25" width="831" height="849" key="CommitChangelistDialog2" timestamp="1606567236538">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="208" y="25" width="831" height="849" key="CommitChangelistDialog2/0.0.1440.900/-297.-1080.1920.1080@0.0.1440.900" timestamp="1606566284043" />
+    <state x="208" y="25" width="831" height="849" key="CommitChangelistDialog2/0.0.1440.900/-297.-1080.1920.1080@0.0.1440.900" timestamp="1606567236538" />
     <state x="208" y="25" width="831" height="825" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606431863457" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1606401265102">
       <screen x="0" y="25" width="1440" height="826" />
@@ -284,10 +291,10 @@
       <screen x="0" y="25" width="1440" height="826" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="ShowDiffWithBranchDialog/0.25.1440.826@0.25.1440.826" timestamp="1606401265105" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606566320962">
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606567241996">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-297.-1080.1920.1080@0.0.1440.900" timestamp="1606566320962" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900/-297.-1080.1920.1080@0.0.1440.900" timestamp="1606567241996" />
     <state x="314" y="84" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606431871662" />
     <state x="521" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606401028399">
       <screen x="0" y="0" width="1440" height="900" />

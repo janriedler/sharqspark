@@ -1,0 +1,32 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    gateway:
+      routes:
+      - id: updateWDQSModule
+        uri: http://localhost:8080
+        predicates:
+          - Path=/update/**
+      - id: es
+        uri: http://ep-2020-2.dimis.fim.uni-passau.de:9200
+        predicates:
+          - Path=/es/**
+      - id: wdqs
+        uri: http://ep-2020-2.dimis.fim.uni-passau.de:9999
+        predicates:
+          - Path=/wdqs/**
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://ep-2020-4.fim.uni-passau.de:8761/eureka
+    instance:
+    preferIpAddress: true
+
+
+
+

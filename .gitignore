@@ -1,3 +1,6 @@
+/backend/src/main/resources/public/static/**
+
+
 #HELP.md
 #target/
 #!.mvn/wrapper/maven-wrapper.jar
